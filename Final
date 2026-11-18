@@ -1,1 +1,4 @@
 
+git rm -r Final
+git commit -m "Remove pasta Final"
+git push origin HEAD
