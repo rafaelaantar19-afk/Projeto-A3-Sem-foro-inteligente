@@ -1,4 +1,4 @@
-# Projeto-A3-Sem-foro-inteligente
+# Projeto A3 — Semáforo inteligente
 
 Sistemas Automatizados — USJT 2026.2 — turma ESO1AN-MCE3 — Prof. Robson Calvetti
 
