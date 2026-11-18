@@ -6,4 +6,4 @@ Espaço da equipe para o projeto da A3 com o tema semáforo inteligente. Aqui fi
 
 Estado: versão preliminar gerada em 12/10/2026. A capa ainda traz "Versão preliminar — integrantes do grupo a definir", porque faltam os nomes dos integrantes. O conteúdo técnico já foi validado no simulador (ver Validação).
 
-O que tem aqui
+# O que tem aqui
