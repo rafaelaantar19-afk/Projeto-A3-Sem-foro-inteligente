@@ -1,4 +1,4 @@
-<img width="241" height="32766" alt="image" src="https://github.com/user-attachments/assets/a8068590-8df2-4dd9-a081-30e63f5d3a32" /># Projeto A3 — Semáforo inteligente
+# Projeto A3 — Semáforo inteligente
 
 Sistemas Automatizados — USJT 2026.2 — turma ESO1AN-MCE3 — Prof. Robson Calvetti
 
